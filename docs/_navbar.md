@@ -1,5 +1,7 @@
 <!--_navbar.md -->
 
+* [Tutorials](Tutorials.md)
+
 * [Code Actions](Code_Blocks/index.md)
   * [Player Event](Code_Blocks/Player_Event.md)
   * [Player Action](Code_Blocks/Player_Action.md)
@@ -20,7 +22,7 @@
   * [Repeat](Code_Blocks/Repeat.md)
   * [Else](Code_Blocks/Else.md)
   
-* [Code Items](Code_Items/index.md)
+* [Code Items](Code_Items.md)
 
 * [Variables](Variables/index.md)
   * [Variable](Variables/index.md)
