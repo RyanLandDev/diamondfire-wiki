@@ -15,6 +15,7 @@ There are different types of variables. Here's a list, clicking them will give m
 * [Potion Effect](Variables/Potion_Effect.md)
 * [Game Value](Variables/Game_Value.md)
 * [Vector](Variables/Vector.md)
+* [List](Variables/List.md)
 
 ## Item
 

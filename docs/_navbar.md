@@ -25,7 +25,7 @@
 * [Code Items](Code_Items.md)
 
 * [Variables](Variables.md)
-  * [Variable](Variables/index.md)
+  * [Variable](Variables.md)
   * [Text](Variables/Text.md)
   * [Number](Variables/Number.md)
   * [Location](Variables/Location.md)
@@ -34,6 +34,7 @@
   * [Potion Effect](Variables/Potion_Effect.md)
   * [Game Value](Variables/Game_Value.md)
   * [Vector](Variables/Vector.md)
+  * [List](Variables/List.md)
   
 * [Other](Other.md)
   * [Code Related](Other/Code_Related.md)
