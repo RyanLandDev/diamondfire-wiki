@@ -10,7 +10,7 @@ Lagslayer is the system in DiamondFire to prevent a plot from causing too much l
 - Variable limit exceeded. (Five-hundred-thousand or more GAME or SAVE variables created.)
 
 ## CPU
-The plot's CPU is something you always need to keep in mind when coding a plot. You can see your plot's cpu by typing /lagslayer. It is a value between 0% and 100% of the plot's max cpu and is updated every 20 ticks of the server. Every time the CPU value updates, or a CPU-intensive action is being executed, the CPU is checked. If the CPU value is greater than 100%, then the plot is halted for an X amount of time, depending on how badly the CPU went over.
+The plot's CPU is something you always need to keep in mind when coding a plot. You can see your plot's cpu by typing /lagslayer. It is a value between 0% and 100% of the plot's max cpu and is updated every 20 ticks of the server. Every time the CPU value updates, or a CPU-intensive action is being executed, the CPU is checked. If the CPU value is greater than 100%, then the plot is halted for an X amount of time. Plots can momentarily go over 100% CPU for a brief period of time if a player joins an empty plot. If a plot is lagslain repeatedly, the time halted may increase.
 
 ## CPU-Intensive Actions
 
