@@ -1,3 +1,3 @@
 - Getting started
 
-  - [Quick Start](quickstart.md)
+  - [Give Items](Code Actions/Player Action/Give Items)
