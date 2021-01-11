@@ -6,6 +6,8 @@ Lists are a variable type that represents a collection of other variables types.
 
 You create a list by placing a named dynamic variable in [Set Variable > List Manipulation > Create List](Code_Blocks/Set_Variable/Create_List.md) and from there you can leave the inventory empty (creating an empty list) or add any default values you would like to have.
 
+![Create list](../_media/create_list.png)
+
 ## Using and Manipulating lists
 
 Lists can be found in many different places for many different uses (eg. Item lores, command arguments, inventory items). `Set Variable > List Manipulation` grants you with many ways to edit and pull information from lists (eg. [Set Variable: Append Value](Code_Blocks/Set_Variable/Append_Value.md) - Adds one or more values to the end of a list.)

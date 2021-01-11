@@ -2,6 +2,8 @@
 
 Location variables are variables that record the location of something.
 
+![Location item](../_media/location_item.png)
+
 You can acquire the location item (a paper) in the [Values](Other/Code_Related/Values.md) menu (right-click the iron ingot).
 
 Right-click while holding the paper to save the location of your current player to the location paper. Left-click a block while holding the paper to save the location of the block to the location paper. Shift + right-click to get various locations of things such as the projectile, victim, or selection of the event. Shift + left-click to teleport to the location saved on the location paper.
@@ -17,6 +19,8 @@ Command | Description
 /loc shift [x] [y] [z] [pitch] [yaw] | Shifts the currently held location's specified axis to a certain value.
 /loc set [x/y/z/pitch/yaw] [value] | Sets the currently held location's specified axis to a certain value.
 /loc set [x] [y] [z] [pitch] [yaw] | Sets the currently held location's specified axes.
+
+![Location help](../_media/loc_help.png)
 
 ## NBT Format
 
