@@ -2,7 +2,7 @@
 
 * [Tutorials](Tutorials.md)
 
-* [Code Actions](Code_Blocks.md)
+* [Code Blocks](Code_Blocks.md)
   * [Player Event](Code_Blocks/Player_Event.md)
   * [Player Action](Code_Blocks/Player_Action.md)
   * [If Player](Code_Blocks/If_Player.md)
