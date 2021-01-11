@@ -1,3 +1,5 @@
-<!-- - [Home]()
+<!--_navbar.md -->
 
-- [Quick Start](quickstart.md) -->
+* **[Code Actions](index.md)**
+  * [Player Action](Code%20Actions/Player%20Action.md)
+  
