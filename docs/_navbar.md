@@ -32,3 +32,8 @@
   * [Potion Effect](Variables/Potion_Effect.md)
   * [Game Value](Variables/Game_Value.md)
   * [Vector](Variables/Vector.md)
+  
+* [Other](Other/index.md)
+  * [Code Related](Other/Code_Related.md)
+  * [Ranks](Other/Ranks.md)
+  
