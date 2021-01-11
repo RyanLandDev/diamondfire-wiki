@@ -2,7 +2,7 @@
 
 * [Tutorials](Tutorials.md)
 
-* [Code Actions](Code_Blocks/index.md)
+* [Code Actions](Code_Blocks.md)
   * [Player Event](Code_Blocks/Player_Event.md)
   * [Player Action](Code_Blocks/Player_Action.md)
   * [If Player](Code_Blocks/If_Player.md)
@@ -24,7 +24,7 @@
   
 * [Code Items](Code_Items.md)
 
-* [Variables](Variables/index.md)
+* [Variables](Variables.md)
   * [Variable](Variables/index.md)
   * [Text](Variables/Text.md)
   * [Number](Variables/Number.md)
@@ -35,7 +35,7 @@
   * [Game Value](Variables/Game_Value.md)
   * [Vector](Variables/Vector.md)
   
-* [Other](Other/index.md)
+* [Other](Other.md)
   * [Code Related](Other/Code_Related.md)
   * [Ranks](Other/Ranks.md)
   
