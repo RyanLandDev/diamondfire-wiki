@@ -1,3 +1,3 @@
 - Getting started
 
-  - [Give Items](Code Actions/Player Action/Give Items)
+  - [Give Items](Code%20Actions/Player%20Action/Give%20Items)
