@@ -13,7 +13,7 @@ This item can be used in many different ways. It runs the same way that an else 
 ### Condition Blocks
 Condition blocks, usually called If-blocks, are bits of code that run only if something is happening. Condition blocks are the blocks that are compatible with the Not Arrow, but there are also other positions where a condition block isn't placed, but you could still use the Not Arrow.
 
-#### [Select Object](../Code_Blocks/Select_Object.md) and [Repeat](../Code_Blocks/Repeat.md)
+#### Select Object and Repeat
 
 If you wanted to select every person who does not have an iron pickaxe, you would use [Select Object: Players By Condition](../Code_Blocks/Select_Object/Players_By_Condition.md). This opens a menu where you can select a condition block and a condition within it. Once you've gone through the menu, you'd use the Not Arrow on the [Select Object](../Code_Blocks/Select_Object.md) to swap it to a Not condition. You can also use the Not Arrow on Repeats. If you wanted to have something loop only when a player isn't sneaking, you would use [Repeat: While](../Code_Blocks/Repeat/While.md). This does the same as [Select Object: Players By Condition](../Code_Blocks/Select_Object/Players_By_Condition.md) and opens up a menu where you can select a condition block and a condition within it. Once you've gone through the menu, you'd use the Not Arrow on the Repeat to swap it to a Not condition. Examples of each condition block, as well as the [Repeat](../Code_Blocks/Repeat.md) and [Select Object](../Code_Blocks/Select_Object.md), can be seen on the right.
 
