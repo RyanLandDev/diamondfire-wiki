@@ -16,10 +16,13 @@ There are different types of variables. Here's a list, clicking them will give m
 * [Game Value](Variables/Game_Value.md)
 * [Vector](Variables/Vector.md)
 * [List](Variables/List.md)
+* [Item](Variables/Item.md)
 
 ## Item
 
 Dynamic variables can be obtained through the [Values](Code_Items/Values.md) menu or by typing `/var <dynamic string> <stack size> [-s] [-l]`. The arguments -s or -l represent the scope that the variable is in. A dynamic variable's name can be set by holding the item and typing in chat. Sneak + right-click to set the scope of the dynamic variable and shift + left click to edit the name of the dynamic variable.
+
+![Dynamic variable](_media/dynamic_var_item.png)
 
 ### NBT Format
 
@@ -32,7 +35,7 @@ This is the NBT format of the variable item. This data is read and processed in 
 
 ## Usage
 
-When a variable in its item form that data can be set to a variable by using the [Set Variable](Code_Blocks/Set_Variable.md) code block. When a variable is created, the name and scope of the dynamic variable item will determine the name and scope of the variable. Note that, if you try to access a variable that either you are not allowed to access because of the scope or just doesn't exist you will be given the number value 0. Variables can be used to replace any argument requested in a code block. The only thing to keep in mind, the variable must be the same value type as the parameter requested. For example, you cannot damage a player for a variable that equals the text value "hi", however you can if it has any number value like 1. Any argument that contains an (s) can be replaced with a list or a large amount of [Values](Other/Code_Related/Values.md).
+When a variable is in its item form, that data can be set to a variable by using the [Set Variable](Code_Blocks/Set_Variable.md) code block. When a variable is created, the name and scope of the dynamic variable item will determine the name and scope of the variable. Note that, if you try to access a variable that either you are not allowed to access because of the scope or just doesn't exist you will be given the number value 0. Variables can be used to replace any argument requested in a code block. The only thing to keep in mind, the variable must be the same value type as the parameter requested. For example, you cannot damage a player for a variable that equals the text value "hi", however you can if it has any number value like 1. Any argument that contains an (s) can be replaced with a list or a large amount of [Values](Other/Code_Related/Values.md).
 
 ### Scopes
 

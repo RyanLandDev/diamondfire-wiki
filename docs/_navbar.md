@@ -35,6 +35,7 @@
   * [Game Value](Variables/Game_Value.md)
   * [Vector](Variables/Vector.md)
   * [List](Variables/List.md)
+  * [Item](Variables/Item.md)
   
 * [Other](Other.md)
   * [Code Related](Other/Code_Related.md)
