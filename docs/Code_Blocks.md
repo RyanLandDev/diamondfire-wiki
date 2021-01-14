@@ -11,7 +11,6 @@ You can find documentation about every code block and it's actions in this categ
 * [If Entity](Code_Blocks/If_Entity.md)
 * [Functions](Code_Blocks/Functions.md)
 * [Processes](Code_Blocks/Processes.md)
-* [Start Process](Code_Blocks/Processes.md)
 * [Set Variable](Code_Blocks/Set_Variable.md)
 * [If Variable](Code_Blocks/If_Variable.md)
 * [Game Action](Code_Blocks/Game_Action.md)
