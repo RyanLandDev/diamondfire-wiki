@@ -18,7 +18,7 @@ Text Code | Description
 %default | The name of the default target in this event, the player or entity running the code.
 %index(list variable name, index) | Gets the value from the [list](Variables/List.md) from the index provided. Example:<br /><br />list = [ a, b, c ]<br />ad = 100<br />%index(list,1)d returns 100
 %killer | The name of the killer target in this event. Only works with kill events.
-%math(expression) | Returns the output of a mathematical expression. Note that this is for numbers. Texts behave differently.<br />Does not follow PEMDAS/OoO, also does not support parenthesis (use nested %math). Supports the following operations:<br />- Sum (+)<br />- Difference (-)<br />- Product (*)<br />- Quotient (/)<br />- Remainder (%)<br />Example: **%math(5+3*2)** gives 16 and not 11. **%math(5+%math(3*2))** does give 11.
+%math(expression) | Returns the output of a mathematical expression. Note that this is for numbers. Texts behave differently.<br /><br />Does not follow PEMDAS/OoO, also does not support parenthesis (use nested %math). Supports the following operations:<br />- Sum (+)<br />- Difference (-)<br />- Product (\*)<br />- Quotient (/)<br />- Remainder (%)<br /><br />Example: **%math(5+3\*2)** gives 16 and not 11. **%math(5+%math(3\*2))** does give 11.
 %projectile | The name of the projectile in this event. Only works with projectile events.
 %random(min, max) | Gives a random number with a rounding multiple of 1 between and including the minimum and maximum.
 %round(number) | Floors the given value (text code name is false). To round to nearest or ceil, use [Set Variable: Round Number](Code_Blocks/Set_Variable/Round_Number.md)
