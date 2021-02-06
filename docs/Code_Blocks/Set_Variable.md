@@ -2,6 +2,8 @@
 
 A **Set Variable** code block (represented by an iron block) is used for setting values to a [variable](Variables.md).
 
+![Set Variable](../_media/Set_Variable.png)
+
 You can find a list of clickable links to articles describing actions in the Set Variable block below.
 
 ## Table of Contents
